@@ -1,5 +1,5 @@
 # Statistical_language_modelling
-Exploring some simple statistical models of English text by maximum likelihood estimation. Project completed as part of homework 4 of CSE 250A of UCSD, CSE, Fall 2022. 
+Exploring some simple statistical models of English text. Project completed as part of homework 4 of CSE 250A of UCSD, CSE, Fall 2022. 
 
 # Brief Description: 
 Based on the maximum likelihood estimation technique, we create a simple statistical model of the English text. We calculate maximum likelihood estimates of the unigram and the bigram distributions, log-likelihoods of sentences under unigram, bigram, and mixture models. 
