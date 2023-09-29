@@ -4,7 +4,7 @@ Exploring some simple statistical models of English text. Project completed as p
 # Brief Description: 
 Based on the maximum likelihood estimation technique, we create a simple statistical model of the English text. We calculate maximum likelihood estimates of the unigram and the bigram distributions, log-likelihoods of sentences under unigram, bigram, and mixture models. 
 
-For a detailed description of the model and a sample solution, please refer to the file 'Problem Statement.pdf'
+For a detailed description of the model and tasks in this project, please refer to the file 'Problem Statement.pdf'
 
 # Files : 
 1. hw4_readme.txt: text file with the information about the data files.
